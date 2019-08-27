@@ -1,0 +1,13 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "this is to help learn modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "a": "node alphabets/vowels/ top/a.js"
+  },
+  "author": "Craig",
+  "license": "ISC",
+  "keywords": []
+}
